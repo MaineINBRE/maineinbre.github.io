@@ -1,3 +1,8 @@
+---
+layout: page
+title: Tutorials
+---
+
 # An Introduction to the NCBI and BLAST
 
 This module is a short introduction to the [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov) - or "NCBI" for short - and an overview of the various tools available there to the public. Of these tools, we will focus mostly on BLAST - the Basic Local Alignment Search Tool. 
