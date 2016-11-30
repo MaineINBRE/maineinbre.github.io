@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About 
 ---
 
 The Maine IDeA Network of Biomedical Research Excellence (INBRE) is a collaborative network of [Maine educational and research institutions](https://inbre.maineidea.net/about-inbre/) led by the [MDI Biological Laboratory](https://inbre.maineidea.net/about-inbre/mdi-biological-laboratory/) and sponsored by the [National Institute of General Medical Sciences (NIGMS)](https://www.nigms.nih.gov/research/crcb/IDeA/Pages/default.aspx) of the [National Institutes of Health (NIH)](https://www.nih.gov).
 
 Maine INBRE members also include:
+  
 * [Bates College](www.bates.edu)
 * [Bowdoin College](www.bowdoin.edu)
 * [Colby College](www.colby.edu)
