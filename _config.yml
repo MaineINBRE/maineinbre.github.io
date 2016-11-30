@@ -1,0 +1,28 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               The Maine INBRE Program
+tagline:             'Bioinformatics Training Materials Repository'
+description:         'Maine INBRE'
+url:                 https://inbre.maineidea.net
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              MDI Biological Laboratory
+  url:               https://twitter.com/mdibl
+  email:             kshank@mdibl.org
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems: [jekyll-paginate]
