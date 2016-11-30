@@ -18,5 +18,5 @@ Maine INBRE members also include:
   * [The University of Maine at Machias](www.machias.edu)
   * [The University of Maine at Presque Isle](www.umpi.edu)
 
-The purpose of this website is to provide bioinformatics and biostatistics training materials to interested students, researchers, and affiliates within the INBRE network. It is maintained by [Kyle Scot Shank](https://kylescotshank.github.io), the Bioinformatics Training Specialist at the MDI Biological Laboratory. Any and all comments or additions are welcome! Simply fork the repository and push updates as desired.
+The purpose of this website is to provide bioinformatics and biostatistics training materials to interested students, researchers, and affiliates within the INBRE network. Any and all comments or additions are welcome! Simply fork the repository and push updates as desired.
 
