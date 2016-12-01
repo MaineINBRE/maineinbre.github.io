@@ -61,7 +61,7 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-  backgrond-image: url("/images/background.png");
+  background-image: url("/images/background.png");
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
