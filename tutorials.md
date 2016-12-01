@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training Materials
+title: Bioinformatics Training Materials
 ---
 
 On this page you will find a variety of curated training materials and tutorials related to bioinformatics, biostatistics, and general computational biology. They are broken down into two groups:
