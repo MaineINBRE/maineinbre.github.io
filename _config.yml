@@ -14,6 +14,7 @@ description:         'Maine INBRE'
 url:                 https://inbre.maineidea.net
 baseurl:             /
 paginate:            5
+background:          background.png
 
 # About/contact
 author:
