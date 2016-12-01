@@ -24,7 +24,7 @@ On this page you will find a variety of curated training materials and tutorials
 ## Instructional Materials
 
 * [Guide to RNA-Seq Analysis with Galaxy: pt.1](https://github.com/MaineINBRE/GilesRNASeqGuide)
-  * This is a set of instructional materials for aligning RNA-seq reads from the **Giles** bacteriophage to the genome of its host, **Mycobacterium smegmatis**. This was done in support of the [The University of Maine's Honors College](https://honors.umaine.edu). The Github repo also contains a link to an RPub page. 
+  * This is a set of instructional materials for aligning RNA-seq reads from the *Giles* bacteriophage to the genome of its host, *Mycobacterium smegmatis*. This was done in support of the [The University of Maine's Honors College](https://honors.umaine.edu). The Github repo also contains a link to an RPub page. 
   * Key Skills: Galaxy
 
 * [Guide to RNA-Seq Analysis with Galaxy: pt.2](https://github.com/MaineINBRE/GilesRNASeqGuide2)
@@ -32,8 +32,8 @@ On this page you will find a variety of curated training materials and tutorials
   * Key Skills: Galaxy
 
  * [Using DESeq2 to Perform Basic Differential Expression Analysis](https://github.com/MaineINBRE/GilesDESEQ2Guide)
-  * This is a set of instructional materials for performing basic differential analysis on RNA-seq reads. It is explicitly designed to be the final module for the work on the **Giles** bacteriophage above. The Github repo also contains a link to an RPub page. 
+  * This is a set of instructional materials for performing basic differential analysis on RNA-seq reads. It is explicitly designed to be the final module for the work on the *Giles* bacteriophage above. The Github repo also contains a link to an RPub page. 
   * Key Skills: `R`, `Bioconductor`, `DESeq2` 
 
-  
+
 
