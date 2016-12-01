@@ -11,10 +11,9 @@ permalink:           pretty
 title:               The Maine INBRE Program
 tagline:             'Bioinformatics Training Materials Repository'
 description:         'Maine INBRE'
-url:                 https://maineinbre.github.io
+url:                 https://github.com/MaineINBRE/maineinbre.github.io
 baseurl:             /
 paginate:            5
-background-image:    background.png
 
 # About/contact
 author:
