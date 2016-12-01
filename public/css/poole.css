@@ -107,9 +107,6 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  background-image: url('/images/background.png');
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
 }
 
 strong {
