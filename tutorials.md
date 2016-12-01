@@ -9,5 +9,6 @@ On this page you will find a variety of curated training materials related to bi
   * This tutorial was created for undergraduate students studying with Dr. Elizabeth Ehrenfeld at the [Southern Maine Community College](https://www.smccme.edu). It focuses primarily on learning how to navigate the NCBI website, perform simple queries, and understanding and perfomring BLAST alignments on simple sequences. 
 
 
-
+* [This is a test](/tutorials/test.md) 
+  * I want to see if this works
 
