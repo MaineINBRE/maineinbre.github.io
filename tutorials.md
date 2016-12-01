@@ -31,7 +31,7 @@ On this page you will find a variety of curated training materials and tutorials
   * This is a continuation of the above project. This is a set of instructional materials for aligning RNA-seq reads from the *Giles* bacteriophage to its own annotated genome. This was done in support of the [The University of Maine's Honors College](https://honors.umaine.edu). The Github repo also contains a link to an RPub page. 
   * Key Skills: Galaxy
 
- * [Using DESeq2 to Perform Basic Differential Expression Analysis](https://github.com/MaineINBRE/GilesDESEQ2Guide)
+* [Using DESeq2 to Perform Basic Differential Expression Analysis](https://github.com/MaineINBRE/GilesDESEQ2Guide)
   * This is a set of instructional materials for performing basic differential analysis on RNA-seq reads. It is explicitly designed to be the final module for the work on the *Giles* bacteriophage above. The Github repo also contains a link to an RPub page. 
   * Key Skills: `R`, `Bioconductor`, `DESeq2` 
 
