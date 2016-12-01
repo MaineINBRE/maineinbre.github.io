@@ -527,6 +527,17 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* MDIBL*/
+.theme-base-MDIBL .sidebar,
+.theme-base-MDIBL .sidebar-toggle:active,
+.theme-base-MDIBL #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #426D9D;
+}
+.theme-base-MDIBL .container a,
+.theme-base-MDIBL .sidebar-toggle,
+.theme-base-MDIBL .related-posts li a:hover {
+  color: #426D9D;
+}
 
 /*
  * Overlay sidebar
