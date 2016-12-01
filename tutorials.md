@@ -21,7 +21,7 @@ On this page you will find a variety of curated training materials and tutorials
   * This script was created to show how to quickly convert a raw Genbank file to a GTF file when a GTF file cannot be located. It was created for undergraduate students at [The University of Maine](www.umaine.edu). 
   * Key Skills: `perl`
 
-## Instructional Materials
+## Project Materials
 
 * [Guide to RNA-Seq Analysis with Galaxy: pt.1](https://github.com/MaineINBRE/GilesRNASeqGuide)
   * This is a set of instructional materials for aligning RNA-seq reads from the *Giles* bacteriophage to the genome of its host, *Mycobacterium smegmatis*. This was done in support of the [The University of Maine's Honors College](https://honors.umaine.edu). The Github repo also contains a link to an RPub page. 
