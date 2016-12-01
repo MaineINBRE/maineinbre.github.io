@@ -21,6 +21,8 @@ On this page you will find a variety of curated training materials and tutorials
   * This script was created to show how to quickly convert a raw Genbank file to a GTF file when a GTF file cannot be located. It was created for undergraduate students at [The University of Maine](www.umaine.edu). 
   * Key Skills: `perl`
 
+***
+
 ## Project-specific Materials
 
 * [Guide to RNA-Seq Analysis with Galaxy: pt.1](https://github.com/MaineINBRE/GilesRNASeqGuide)
