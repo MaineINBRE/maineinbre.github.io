@@ -8,7 +8,7 @@ highlighter:         rouge
 permalink:           pretty
 
 # Setup
-title:               'The Maine INBRE Program:'
+title:               'The Maine INBRE Program'
 tagline:             'Training Materials Repository'
 description:         'Maine INBRE'
 url:                 https://github.com/MaineINBRE/maineinbre.github.io
