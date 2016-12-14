@@ -13,6 +13,10 @@ On this page you will find a variety of curated training materials and tutorials
 
 ## General Tutorials
 
+* [Introduction to the Unix Shell](httpsL//github.com/MaineINBRE/IntroToShell)
+  * This tutorial is a modified form of the introduction to the Unix shell as offered by [Software Carpentry](https://software-carpentry.org). It focuses on teaching undergraduates the basic skills necessary to understand the shell and utilize command line tools.
+  * Key Skills: Unix, Bash, Command Line
+  
 * [Introduction to NCBI and BLAST](https://github.com/MaineINBRE/IntroToNCBIandBLAST)
   * This tutorial was created for undergraduate students studying with Dr. Elizabeth Ehrenfeld at the [Southern Maine Community College](https://www.smccme.edu). It focuses primarily on learning how to navigate the NCBI website, perform simple queries, and understanding and perfomring BLAST alignments on simple sequences. 
   * Key Skills: BLAST, Entrez Search
