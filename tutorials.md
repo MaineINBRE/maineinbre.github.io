@@ -18,8 +18,12 @@ On this page you will find a variety of curated training materials and tutorials
   * Key Skills: Unix, Bash, Command Line
 
 * [Introduction to Quality Assessment, FastQC, and Trimmomatic](https://github.com/MaineINBRE/IntroToFASTQCandTrimmomatic)
-  * This tutorial is an introduction to the quality assessment step in a bioinformatics pipeline. It focuses on the most common file formats (FASTA/FASTQ), the motivation for and use of FastQC, and using Trimmomatic to trim paired-end reads. It is highly tailored to use of the MDIBL Bioinformatics Core cluster to use example data.
+  * This tutorial is an introduction to the quality assessment step in a bioinformatics pipeline. It focuses on the most common file formats (FASTA/FASTQ), the motivation for and use of FastQC, and using Trimmomatic to trim paired-end reads. It is highly tailored to the use of the MDIBL Bioinformatics Core cluster to use example data.
   * Key Skills: FastQC, Trimmomatic
+
+* [Introduction to HTseq](https://github.com/MaineINBRE/IntroToHTSEQ)
+  * This tutorial is an introduction to the `htseq-count` function in the [HTseq](http://www-huber.embl.de/users/anders/HTSeq/doc/index.html) computational environment. Though useful in many situations, it is highly tailored to the use of the MDIBL Bioinformatics Core. 
+  * Key Skills: HTseq, Samtools
 
 * [Introduction to NCBI and BLAST](https://github.com/MaineINBRE/IntroToNCBIandBLAST)
   * This tutorial was created for undergraduate students studying with Dr. Elizabeth Ehrenfeld at the [Southern Maine Community College](https://www.smccme.edu). It focuses primarily on learning how to navigate the NCBI website, perform simple queries, and understanding and perfomring BLAST alignments on simple sequences. 
