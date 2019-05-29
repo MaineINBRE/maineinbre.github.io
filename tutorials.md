@@ -37,7 +37,7 @@ On this page you will find a variety of curated training materials and tutorials
   * This script was created to show how to quickly convert a raw Genbank file to a GTF file when a GTF file cannot be located. It was created for undergraduate students at [The University of Maine](www.umaine.edu). 
   * Key Skills: perl
   
-* [De Novo Transcriptome Assembly](https://github.com/MaineINBRE/Trinity2.8.4Marconi)
+* [De Novo Transcriptome Assembly](https://maineinbre.github.io/Trinity2.8.4Marconi/)
 
 ***
 
@@ -55,5 +55,5 @@ On this page you will find a variety of curated training materials and tutorials
   * This is a set of instructional materials for performing basic differential analysis on RNA-seq reads. It is explicitly designed to be the final module for the work on the *Giles* bacterioohage above. The Github repo also contains a link to an RPub page. 
   * Key Skills: R, Bioconductor, DESeq2 
 
-* [Lobster De Novo Transcriptome Assembly](https://github.com/MaineINBRE/Trinity2.8.4Marconi)
+* [Lobster De Novo Transcriptome Assembly](https://maineinbre.github.io/Trinity2.8.4Marconi/)
 
