@@ -51,6 +51,4 @@ On this page you will find a variety of curated training materials and tutorials
 
 * [Using DESeq2 to Perform Basic Differential Expression Analysis](https://github.com/MaineINBRE/GilesDESEQ2Guide)
   * This is a set of instructional materials for performing basic differential analysis on RNA-seq reads. It is explicitly designed to be the final module for the work on the *Giles* bacterioohage above. The Github repo also contains a link to an RPub page. 
-  * Key Skills: R, Bioconductor, DESeq2 
-
-
+  * Key Skills: R, Bioconductor, DESeq2
