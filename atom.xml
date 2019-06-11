@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>The Maine INBRE Program</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-05-31T13:35:36-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>MDI Biological Laboratory</name>
+   <email>kshank@mdibl.org</email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome!</title>
+   <link href="http://localhost:4000/2016/11/30/landing-page/"/>
+   <updated>2016-11-30T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2016/11/30/landing-page</id>
+   <content type="html">&lt;p&gt;Welcome to the &lt;a href=&quot;https://inbre.maineidea.net&quot;&gt;Maine INBRE&lt;/a&gt; Training Materials Repository. Our goal is to provide high-quality training materials for biomedical research to interested undergraduate and graduate students, along with faculty at various research and teaching institutions throughout Maine.&lt;/p&gt;
+
+&lt;p&gt;Please click on the sidebar icon (&lt;strong&gt;☰&lt;/strong&gt;) in the top corner for more information about our group and links to different training modules and tutorials. Code for all materials (along with this website) can be found on our organizational &lt;a href=&quot;https://github.com/MaineINBRE&quot;&gt;GitHub&lt;/a&gt; page.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
